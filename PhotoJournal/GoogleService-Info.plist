@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>585853750519-r7e2nod4sfi9fhss24ricsu0lre0p74e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.585853750519-r7e2nod4sfi9fhss24ricsu0lre0p74e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCa11uOb3BC56JmhZQ0XEENCVhvXNxfw2A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>585853750519</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.markkim.PhotoJournal</string>
+	<key>PROJECT_ID</key>
+	<string>photojournal-9e054</string>
+	<key>STORAGE_BUCKET</key>
+	<string>photojournal-9e054.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:585853750519:ios:64785de9a56a2955f017f2</string>
+	<key>DATABASE_URL</key>
+	<string>https://photojournal-9e054.firebaseio.com</string>
+</dict>
+</plist>
