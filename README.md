@@ -1,10 +1,10 @@
-#  Challenges
+PhotoJournal
 
-## Part 1
+Tutorial based on -> https://www.youtube.com/watch?v=NWF3rFZCFo4&feature=youtu.be
 
-### Login
-    * complete the email and password registraton
-    * complete the email and password login
+IOS app that uses Firebase for authentication and storing data.
+
+Users can upload images and their description.
 
 
 
